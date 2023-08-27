@@ -1,0 +1,6 @@
+title:Bot
+print:Downloading Bot
+pip: pystyle,colorama,pwinput,!END 
+make-source:main.py>https://raw.githubusercontent.com/Disvenine/Auto-Beam-Bot/main/main.py
+print:Done Settings Up
+cmd:start main.py
